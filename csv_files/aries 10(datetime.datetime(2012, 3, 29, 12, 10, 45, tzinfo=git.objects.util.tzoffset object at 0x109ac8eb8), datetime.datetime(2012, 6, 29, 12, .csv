@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+EJBModeller.java,43,6,1,3,1,1,0.015384615384615385,343.3191489361702,567.1830510279289,0

@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+ServiceStateMBean.java,62,0,1,0,1,1,0.008403361344537815,535.5483870967741,166.9686612716881,0

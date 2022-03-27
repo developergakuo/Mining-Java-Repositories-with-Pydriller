@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+Activator.java,264,62,2,6,1,1,0.0425531914893617,550.0526315789474,191.73255835725345,1

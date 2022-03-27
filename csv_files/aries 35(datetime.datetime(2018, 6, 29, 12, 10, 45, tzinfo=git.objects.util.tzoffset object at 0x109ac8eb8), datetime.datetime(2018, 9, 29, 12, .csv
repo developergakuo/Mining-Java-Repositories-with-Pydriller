@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+ArtifactFilter.java,47,13,1,0,1,1,0.038461538461538464,54.0,12.324149052408034,0

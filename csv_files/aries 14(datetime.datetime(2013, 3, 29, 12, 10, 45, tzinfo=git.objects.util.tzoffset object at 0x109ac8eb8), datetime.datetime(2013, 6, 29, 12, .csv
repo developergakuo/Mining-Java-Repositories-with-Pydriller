@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+BasicSubsystem.java,543,131,2,0,1,1,0.08333333333333333,191.15789473684208,104.18255535591834,1
